@@ -13,6 +13,7 @@ This script automates the **referral process** on Grass:
 This bot is private and requires login credentials.
 
 🚫 Unauthorized use is prohibited.
+
 ✅ To access, please confirm your username + PIN with the creator.
 
 📣 Join the Community
