@@ -5,7 +5,6 @@ This script automates the **referral process** on Grass:
 - 🔄 Auto register new users using referral code
 - 🧠 Randomized email/wallet generator
 - 🌐 Proxy support (HTTP, HTTPS, SOCKS5)
-- 🧩 Optional CAPTCHA solve (manual)
 - 📋 Logs results: success/fail per wallet
 - 🔒 Protected by login system (PIN/Username)
 - 🛡️ Undetectable with randomized headers/user-agents
