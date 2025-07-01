@@ -17,6 +17,7 @@ This bot is private and requires login credentials.
 ✅ To access, please confirm your username + PIN with the creator.
 
 📣 Join the Community
+
 📢 Get access, updates, and support:
 
 Telegram Group: https://t.me/independendropers
